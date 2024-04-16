@@ -230,13 +230,13 @@ body {
 }
 
 .modal-body-add-palavra button {
-  background-color: #ffd700;
+  background-color: ##15b27e;
   cursor: pointer;
 }
 
 .modal-body-add-palavra button:hover {
   background-color: #000;
-  color: #ffd700;
+  color: #f5f5f4;
   cursor: pointer;
 }
 
